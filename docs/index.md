@@ -3,11 +3,13 @@ title: "Introduction"
 weight: 10
 ---
 
-AsyncAPI Generator is a fast, feature-packed and ready to use Javascript based library. We can use the generator to generate whatever we want based on the AsyncAPI specification file. Among other things, it can be used for generating code, documentation, diagrams, markdown files, microservices and applications. AsyncAPI offers a library of Templates which can be used to start generating code and docs immediately. 
+### What is Generator?
 
->💡 Note: Quickly start using generator library by following our [installation and usage]() guide. 
+AsyncAPI Generator is a fast, feature-packed and ready to use Javascript based Npm library. We can use the generator to generate whatever we want based on the AsyncAPI specification file. Among other things, it can be used for generating code, documentation, diagrams, markdown files, microservices and applications. AsyncAPI offers a library of Templates which can be used to start generating code and docs immediately. 
 
-Generator helps organizations and developers speed up their project by automating the code or documentation generation process. Generator simplifies the generation process by providing us with a set of tools which help us produce our desired output in just a few steps! Generator promotes reusability. Once you have the AsyncAPI input file ready, you get access to multiple Templates. With minimum modification, you can generate code and documentation for different frameworks and languages.
+>💡 Note: You can quickly start using the generator by following our [installation and usage]() guide. 
+
+Generator helps organizations and developers speed up their project by automating the code and documentation generation process. Generator simplifies the generation process by providing us with a set of tools which help us produce our desired output in just a few steps! Generator promotes reusability. Once you have the AsyncAPI input file ready, you get access to multiple Templates. With minimum modification, you can generate code and documentation for different frameworks and languages.
 
 - Quick set up and easy to use on a regular basis
 - Effortless generation of complex documents
